@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Payamnamin
 - 👀 I’m interested in progromming,tennis, padel and fishing
-- 🌱 I’m currently learning system development at Jönköping University JU
-- 💞️ I’m looking to collaborate on PRogromming
-- 📫 You can reach me on payamnamin
+- 🌱 I’m currently learning system development at Jönköping University 
+- 💞️ I’m looking to collaborate on Progromming
+- 📫 You can reach me on payamnamin progrommer.net
 - 😄 Pronouns: Päjam
 - ⚡ Fun fact: Good at both sabotating and rebuilding... 
 
