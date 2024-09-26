@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning system development at Jönköping University 
 - 💞️ I’m looking to collaborate on Progromming
 - 📫 You can reach me on payamnamin@progrommer.net
-- 😄 Pronouns: Päjam
 - ⚡ Fun fact: Good at both sabotating and rebuilding... 
 
 <!---
